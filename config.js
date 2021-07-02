@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'I know it 🥰. big butt 😘😘',
     messDesc: 'why dont you msg me immediately.',
     btnAccept: 'Ok em <3',
-    messLink: 'http://fb.com' //https://www.facebook.com/messages/t/100007730149351. VD: https://m.me/nam.nodemy
+    messLink: 'http://fb.com' //https://www.facebook.com/tuan.huynhthanh.3517. VD: https://m.me/nam.nodemy
 }
