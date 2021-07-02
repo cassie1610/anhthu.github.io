@@ -4,7 +4,7 @@ const CONFIG = {
     can ease my mind on days like these
     You are the only one that
     take my mind somewhere else `,
-    btnIntro: 'hihi',
+    btnIntro: 'click here',
     title: 'Do you wanna be my Greentea in the morning, be my sugar, honey? 😙',
     desc: 'if you dont click the answer, it means you love me ',
     btnYes: 'yea, you are all I need <33',
